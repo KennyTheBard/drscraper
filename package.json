@@ -1,0 +1,25 @@
+{
+  "name": "drscraper",
+  "version": "1.0.0",
+  "description": "Dr Scraper is a tool for scraping focused on adaptability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KennyTheBard/drscraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KennyTheBard/drscraper/issues"
+  },
+  "homepage": "https://github.com/KennyTheBard/drscraper#readme",
+  "dependencies": {
+    "puppeteer": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^5.4.4"
+  }
+}
